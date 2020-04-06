@@ -9,7 +9,7 @@ Over time, we learned to respect:
 **Clients** over investors  
 **People** over power
 
-While we see understand the importance of every item on the right, we work for the items on the left.
+While we understand the importance of every item on the right, we work for the items on the left.
 
 Feel free to put your name on the list of signatories:
 
