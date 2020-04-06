@@ -1,7 +1,7 @@
 ## The Shutdown Manifesto
 
 We are a group of people building and working for Software Companies.
-Over time, we learned to respect those values:
+Over time, we learned to respect:
 
 **Profitability** over monetization  
 **Customers** over users  
